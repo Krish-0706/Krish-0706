@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm like to build production-grade scalable web applications<br>Learning how to build API's<br>Eager to learn and build web applications in future
+I like to build production-grade scalable web applications<br>Learning how to build API's<br>Eager to learn and build web applications in future
 
 
 ## 🌐 Socials:
