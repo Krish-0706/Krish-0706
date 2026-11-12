@@ -1,5 +1,5 @@
 # 💫 About Me:
-I like to build production-grade scalable web applications<br>Learning how to build API's<br>Eager to learn and build web applications in future
+I like to build production-grade scalable web applications<br>Learning how to build API's<br>Focusing on Machine Learning, Neural Networks and Cloud Deployment.<br> I intend to develop a product that is even useful for a layman.
 
 
 ## 🌐 Socials:
